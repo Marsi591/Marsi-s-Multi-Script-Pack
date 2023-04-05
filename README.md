@@ -4,8 +4,8 @@ This is where i will Implement all my Scripts you just need to open The Marsi´s
 This is where i will be Uploading all New Scripts so Stay Updated!
 
 Features:
-Nitro Gen
-Auto Screenshot
+Nitro Gen,
+Auto Screenshot,
 HWID CHANGER(Not Tested)
 
 Have Fun!
