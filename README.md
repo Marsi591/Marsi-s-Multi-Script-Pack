@@ -7,7 +7,7 @@ Features:
 
 Nitro Gen,
 
-Auto Screenshot,
+TikTakToe
 
 HWID CHANGER(Not Tested)
 
